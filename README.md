@@ -28,3 +28,5 @@ A funny thing is that the database after this command will not be created unless
 #### 1.4: Add a new collection "db.CreateCollection("name_collection")":
 ![5](https://user-images.githubusercontent.com/48557621/83740394-6448a900-a61c-11ea-97b7-859b794ad341.PNG)
 
+#### 1.5 : Show all collections that you have in your database "show collections"
+![collection](https://user-images.githubusercontent.com/48557621/83773458-26627980-a64a-11ea-8941-34d59c4bf1aa.PNG)
