@@ -25,5 +25,5 @@ After, we are going to open a new "cmd" and run "mongo", so, the result will be:
 A funny thing is that the database after this command will not be created unless I know how to use it.
 
 #### 1.4: Add a new collection "db.CreateCollection("name_collection")":
-
+![5](https://user-images.githubusercontent.com/48557621/83740394-6448a900-a61c-11ea-97b7-859b794ad341.PNG)
 
