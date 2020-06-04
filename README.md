@@ -48,7 +48,7 @@ A funny thing is that the database after this command will not be created unless
 
 #### 1.8 : Display a list of records matching with specific value
 db.name_collection.find({"clname": "data"})
-
+![displayalist](https://user-images.githubusercontent.com/48557621/83775527-a8ec3880-a64c-11ea-8a77-88ca704421c0.PNG)
 
 
 
