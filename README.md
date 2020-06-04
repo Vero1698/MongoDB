@@ -62,6 +62,11 @@ But, if we want to sort in an descending order     "(filtro : -1 ) "
 ![gt](https://user-images.githubusercontent.com/48557621/83783431-c245b280-a655-11ea-9f88-88eec1c57f63.PNG)
 
 #### 2.2: Lower then Val  " ($lt:Val_that_you_choose)"
+![lt](https://user-images.githubusercontent.com/48557621/83784975-3f712780-a656-11ea-90e1-d9e5c15baf94.PNG)
+
+#### 2.3: Values that aren't equal to ($ne: val_that_you_choose)"
+![ne](https://user-images.githubusercontent.com/48557621/83784986-41d38180-a656-11ea-903a-bfcc7d29bc4f.PNG)
+
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
 
