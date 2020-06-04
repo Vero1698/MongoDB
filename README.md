@@ -2,6 +2,7 @@
 
 # Introduction:
 ### What is MongoDB?
+![imagenmongo](https://user-images.githubusercontent.com/48557621/83740396-64e13f80-a61c-11ea-812b-c330dbbc1975.png)
 
 "MongoDB is a distributed database at its core, so high availability, horizontal scaling, and geographic distribution are built in and easy to use" MongoDB(s.a)
 
