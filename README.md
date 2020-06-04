@@ -32,4 +32,10 @@ A funny thing is that the database after this command will not be created unless
 ![collection](https://user-images.githubusercontent.com/48557621/83773458-26627980-a64a-11ea-8941-34d59c4bf1aa.PNG)
 
 #### 1.6: Insert a record into a collection " db.name_collection.insert({"clname":"data")}
+![insertCollection](https://user-images.githubusercontent.com/48557621/83774456-52cac580-a64b-11ea-8a29-4f21da5df131.PNG)
+
+#### 1.7:Display list of records of a collection:
+"db.name_collection.find()"
+"db.name_collection.find().pretty()"
+
 
