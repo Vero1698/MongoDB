@@ -47,3 +47,12 @@ A funny thing is that the database after this command will not be created unless
 #### 1.9 : Drop a collection   "db.name_of_collection.drop()"
 ![drop](https://user-images.githubusercontent.com/48557621/83776316-a50ce600-a64d-11ea-8b8b-9ae96abc1233.PNG)
 
+#### 1.10 : Ordering in MongoDB, "db.name_coleccion.find(filtro_by_user).sort(ordenacion_As_or_Des)"
+
+#### REFERENCES:
+https://www.mongodb.com/what-is-mongodb
+https://dzone.com/articles/mongodb-commands-cheat-sheet-for-beginners
+http://lineadecodigo.com/mongodb/ordenaciones-en-mongodb/
+
+
+
