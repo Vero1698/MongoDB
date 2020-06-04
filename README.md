@@ -38,4 +38,5 @@ A funny thing is that the database after this command will not be created unless
 "db.name_collection.find()"
 "db.name_collection.find().pretty()"
 
+![find](https://user-images.githubusercontent.com/48557621/83774783-c66cd280-a64b-11ea-9f2d-6bcb36c022e8.PNG)
 
