@@ -57,7 +57,8 @@ After, we can sort the collection in an ascending order    "(filtro: 1) "
 But, if we want to sort in an descending order     "(filtro : -1 ) "
 ![descendingorder](https://user-images.githubusercontent.com/48557621/83781662-76463e00-a654-11ea-97fc-075d7bbfe21d.PNG)
 
-
+## Comparison Query Operators
+#### 2.1: Greater then Val  "($gt: values_that_you_chooose)"
 
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
