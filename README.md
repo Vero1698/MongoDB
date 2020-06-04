@@ -12,42 +12,36 @@ As mentioned before, mongodb is a distributed database that adapts to different 
 ## Basic Commands
 #### 1,1: Start Mongodb
 In windows mongoDB, to access the database you first have to open our terminator and run the code "mongodb":
+
 ![2](https://user-images.githubusercontent.com/48557621/83737555-c8696e00-a618-11ea-9f08-49b712a9c24e.PNG)
 
 After, we are going to open a new "cmd" and run "mongo", so, the result will be:
+
 ![3](https://user-images.githubusercontent.com/48557621/83737823-25652400-a619-11ea-8af7-f783c45ece6f.PNG)
 
-#### 1.2: If we want to see the name of databases on Mongodb, 
-we use "show dbs"
 
+#### 1.2: If we want to see the name of databases on Mongodb,  we use "show dbs"
 ![1](https://user-images.githubusercontent.com/48557621/83736373-2ac16f00-a617-11ea-85ef-7d2bbcc78c23.PNG)
 
-#### 1.3: Create a new database:
-we are going to use  "use" + "nameofyourdatabase"
+
+#### 1.3: Create a new database, we are going to use  "use" + "nameofyourdatabase"
 ![4](https://user-images.githubusercontent.com/48557621/83738651-2f3b5700-a61a-11ea-95db-b30dcb96180c.PNG)
+
 A funny thing is that the database after this command will not be created unless I know how to use it.
 
-#### 1.4: Add a new collection 
-"db.CreateCollection("name_collection")"
+#### 1.4: Add a new collection  "db.CreateCollection("name_collection")"
 ![5](https://user-images.githubusercontent.com/48557621/83740394-6448a900-a61c-11ea-97b7-859b794ad341.PNG)
 
-#### 1.5 : Show all collections that you have in your database 
-"show collections"
+#### 1.5 : Show all collections that you have in your database  "show collections"
 ![collection](https://user-images.githubusercontent.com/48557621/83773458-26627980-a64a-11ea-8941-34d59c4bf1aa.PNG)
 
-#### 1.6: Insert a record into a collection 
-" db.name_collection.insert({"clname":"data")}
-
+#### 1.6: Insert a record into a collection  " db.name_collection.insert({"clname":"data")}
 ![insertCollection](https://user-images.githubusercontent.com/48557621/83774456-52cac580-a64b-11ea-8a29-4f21da5df131.PNG)
 
-#### 1.7:Display list of records of a collection:
-"db.name_collection.find()"
-"db.name_collection.find().pretty()"
-
+#### 1.7:Display list of records of a collection , "db.name_collection.find()" or "db.name_collection.find().pretty()"
 ![find](https://user-images.githubusercontent.com/48557621/83774783-c66cd280-a64b-11ea-9f2d-6bcb36c022e8.PNG)
 
-#### 1.8 : Display a list of records matching with specific value
-db.name_collection.find({"clname": "data"})
+#### 1.8 : Display a list of records matching with specific value   "db.name_collection.find({"clname": "data"})"
 ![displayalist](https://user-images.githubusercontent.com/48557621/83775527-a8ec3880-a64c-11ea-8a77-88ca704421c0.PNG)
 
 
