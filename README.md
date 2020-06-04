@@ -58,8 +58,10 @@ But, if we want to sort in an descending order     "(filtro : -1 ) "
 ![descendingorder](https://user-images.githubusercontent.com/48557621/83781662-76463e00-a654-11ea-97fc-075d7bbfe21d.PNG)
 
 ## Comparison Query Operators
-#### 2.1: Greater then Val  "($gt: values_that_you_chooose)"
+#### 2.1: Greater then Val  "($gt: values_that_you_choose)"
+![gt](https://user-images.githubusercontent.com/48557621/83783431-c245b280-a655-11ea-9f88-88eec1c57f63.PNG)
 
+#### 2.2: Lower then Val  " ($lt:Val_that_you_choose)"
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
 
