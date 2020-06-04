@@ -18,3 +18,6 @@ After, we are going to open a new "cmd" and run "mongo", so, the result will be:
 ### 2: If we want to see the name of databases on Mongodb, we use "show dbs":
 
 ![1](https://user-images.githubusercontent.com/48557621/83736373-2ac16f00-a617-11ea-85ef-7d2bbcc78c23.PNG)
+
+### 3: Create a new database, we are going to use  "use" + "nameofyourdatabase":
+![4](https://user-images.githubusercontent.com/48557621/83738651-2f3b5700-a61a-11ea-95db-b30dcb96180c.PNG)
