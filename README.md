@@ -55,6 +55,8 @@ After, we can sort the collection in an ascending order    "(filtro: 1) "
 ![sortdata](https://user-images.githubusercontent.com/48557621/83779136-2fa31480-a651-11ea-98c8-8e3664f2000e.PNG)
 
 But, if we want to sort in an descending order     "(filtro : -1 ) "
+![descendingorder](https://user-images.githubusercontent.com/48557621/83781662-76463e00-a654-11ea-97fc-075d7bbfe21d.PNG)
+
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
 https://dzone.com/articles/mongodb-commands-cheat-sheet-for-beginners
