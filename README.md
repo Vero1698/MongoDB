@@ -50,7 +50,8 @@ A funny thing is that the database after this command will not be created unless
 #### 1.10 : Ordering in MongoDB, "db.name_coleccion.find(filtro_by_user).sort(ordenacion_As_or_Des)"
 First, we need to insert some values for collection (collection called "Prueba")
 ![insertdata](https://user-images.githubusercontent.com/48557621/83779138-303bab00-a651-11ea-85fd-0b7693e7da5c.PNG)
-After, we can sort the collection as we want to do this
+
+After, we can sort the collection in an ascending order    "(filtro: 1) "
 ![sortdata](https://user-images.githubusercontent.com/48557621/83779136-2fa31480-a651-11ea-98c8-8e3664f2000e.PNG)
 
 #### REFERENCES:
