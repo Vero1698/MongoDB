@@ -67,6 +67,11 @@ But, if we want to sort in an descending order     "(filtro : -1 ) "
 #### 2.3: Values that aren't equal to ($ne: val_that_you_choose)"
 ![ne](https://user-images.githubusercontent.com/48557621/83784986-41d38180-a656-11ea-903a-bfcc7d29bc4f.PNG)
 
+
+## Query Document
+#### 3.1 The findOne() method that returns only one document.
+
+
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
 
