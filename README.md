@@ -69,8 +69,8 @@ But, if we want to sort in an descending order     "(filtro : -1 ) "
 
 
 ## Query Document
-#### 3.1 The findOne() method that returns only one document.
-
+#### 3.1 The findOne() method that returns only one document    "db.name_of_collection.findOne()"
+![findOne](https://user-images.githubusercontent.com/48557621/83823237-145bf780-a699-11ea-9070-cc7e93ab1eee.PNG)
 
 #### REFERENCES:
 https://www.mongodb.com/what-is-mongodb
